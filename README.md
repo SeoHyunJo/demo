@@ -1,2 +1,2 @@
-# demo
-git study
+# 깃 연습
+깃 공부
