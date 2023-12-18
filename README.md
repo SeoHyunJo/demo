@@ -3,3 +3,6 @@
 add test
 merge test
 브런치에서 푸쉬
+바뀌냐
+브런치a
+브런치b임
