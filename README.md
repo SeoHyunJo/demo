@@ -10,3 +10,4 @@ merge test
 아무2
 즉시푸쉬
 브런치c
+feature 1219 merge
