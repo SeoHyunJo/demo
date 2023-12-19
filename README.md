@@ -12,3 +12,4 @@ merge test
 브런치c
 아무2
 feature 1219 merge
+feature 1219_2 merge
